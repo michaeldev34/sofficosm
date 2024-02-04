@@ -1,0 +1,4 @@
+'''classicall webapp structure of a flaskapp
+will be 
+webapp_directory_venv = [app.wsgi, requirements.txt, python env, all modules , pip, nohup.out, flaskapp.py gfile, ]
+etcapaache2 = apache2.conf, flaskapp.conf'''
